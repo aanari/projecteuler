@@ -4,3 +4,4 @@
 
 ## Problems
 
+-  [Multiples of 3 and 5](solutions/001.pl)
