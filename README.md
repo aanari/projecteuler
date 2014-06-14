@@ -4,6 +4,6 @@
 
 ## Problems
 
--  [Multiples of 3 and 5](solutions/001.pl)
--  [Even Fibonacci numbers](solutions/002.pl)
--  [Largest prime factor](solutions/003.pl)
+1.  [Multiples of 3 and 5](solutions/001.pl)
+2.  [Even Fibonacci numbers](solutions/002.pl)
+3.  [Largest prime factor](solutions/003.pl)
