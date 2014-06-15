@@ -9,3 +9,4 @@
 3.  [Largest prime factor](solutions/003.pl)
 4.  [Largest palindrome product](solutions/004.pl)
 5.  [Smallest multiple](solutions/005.pl)
+6.  [Sum square difference](solutions/006.pl)
