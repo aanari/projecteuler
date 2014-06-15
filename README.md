@@ -8,3 +8,4 @@
 2.  [Even Fibonacci numbers](solutions/002.pl)
 3.  [Largest prime factor](solutions/003.pl)
 4.  [Largest palindrome product](solutions/004.pl)
+5.  [Smallest multiple](solutions/005.pl)
