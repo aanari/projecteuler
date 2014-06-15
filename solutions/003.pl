@@ -5,5 +5,5 @@ PRIME: for (my $n = 600851475143, my $i = 2; $i < $n/2; $i++) {
             next PRIME if $p % $j == 0;
         }
         print $p and exit;
-	}
+    }
 }
