@@ -3,7 +3,7 @@ sub palindrome {
     for (my $n = $o; $n > 0; $n = int($n / 10)) {
         $r = ($r * 10) + ($n % 10);
     }
-	return $o == $r;
+    return $o == $r;
 }
 
 for (my $i = 999; $i >= 100; $i--) {
